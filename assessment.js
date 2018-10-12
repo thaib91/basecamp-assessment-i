@@ -26,6 +26,8 @@
 var age = 18;
 var canDrive;
 
+var
+
 
 // CODE HERE
 
